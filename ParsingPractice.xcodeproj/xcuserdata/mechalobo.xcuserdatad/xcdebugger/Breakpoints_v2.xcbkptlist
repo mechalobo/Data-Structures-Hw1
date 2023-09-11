@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "549030E4-1018-4194-B727-625CDA72AB6D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D11ED3E6-666B-4D49-98C6-5AE3C53367F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParsingPractice/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "operator&gt;&gt;(file, card)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D185C888-1D0B-426E-9F2B-150DB536E439"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParsingPractice/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "processLetterFrequency(card)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D185C888-1D0B-426E-9F2B-150DB536E439 - 5791d9af1f01db20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "processLetterFrequency(card&amp;)"
+                  moduleName = "ParsingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mechalobo/Desktop/Xcode/ParsingPractice/ParsingPractice/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "D185C888-1D0B-426E-9F2B-150DB536E439 - 5791d9af1f01db20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "processLetterFrequency(card&amp;)"
+                  moduleName = "ParsingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mechalobo/Desktop/Xcode/ParsingPractice/ParsingPractice/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "D185C888-1D0B-426E-9F2B-150DB536E439 - 5791d9af1f01dbc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "processLetterFrequency(card&amp;)"
+                  moduleName = "ParsingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mechalobo/Desktop/Xcode/ParsingPractice/ParsingPractice/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "D185C888-1D0B-426E-9F2B-150DB536E439 - 5791d9af1f01dbc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "processLetterFrequency(card&amp;)"
+                  moduleName = "ParsingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mechalobo/Desktop/Xcode/ParsingPractice/ParsingPractice/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DA83EC6-5A68-464C-A286-34F63D6A8B13"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParsingPractice/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "writeToFile(file, card)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "9DA83EC6-5A68-464C-A286-34F63D6A8B13 - 9b61e3f57949c887"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "writeToFile(std::__1::basic_fstream&lt;char, std::__1::char_traits&lt;char&gt; &gt;&amp;, card&amp;)"
+                  moduleName = "ParsingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mechalobo/Desktop/Xcode/ParsingPractice/ParsingPractice/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "9DA83EC6-5A68-464C-A286-34F63D6A8B13 - 9b61e3f57949c887"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "writeToFile(std::__1::basic_fstream&lt;char, std::__1::char_traits&lt;char&gt; &gt;&amp;, card&amp;)"
+                  moduleName = "ParsingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mechalobo/Desktop/Xcode/ParsingPractice/ParsingPractice/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "9DA83EC6-5A68-464C-A286-34F63D6A8B13 - 9b61e3f57949c839"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "writeToFile(std::__1::basic_fstream&lt;char, std::__1::char_traits&lt;char&gt; &gt;&amp;, card&amp;)"
+                  moduleName = "ParsingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mechalobo/Desktop/Xcode/ParsingPractice/ParsingPractice/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2947176-10E2-477B-BCBE-3F4541875E6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParsingPractice/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0D87739-BE4A-44CB-85A0-83B8A68D0B30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParsingPractice/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2C9A395-8B7C-4F03-8C79-0467BA0B1A93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParsingPractice/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

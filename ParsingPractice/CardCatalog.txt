@@ -1,0 +1,10 @@
+Title: Moby Dick
+Full Author: Herman Melville
+Word count: 201
+Line count: 17
+
+Title: Peter Pan
+Full Author: James Barrie
+Word count: 3051
+Line count: 314
+
